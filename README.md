@@ -1,5 +1,5 @@
 <div style="overflow:hidden; border-radius:25px; width:100%;">
-<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" style="border-radius:25;" width="100%"/>
+<img src="https://github.com/FussionPK/FussionPK/blob/e57b3504cc5ec9b05615cc58cbb8ab5af74c6d4f/image.jpg?raw=true" alt="Medjay" style="width:100%;"/>
 </div>
 
 <div align="center">
