@@ -1,4 +1,4 @@
-<img src="https://github.com/FussionPK/FussionPK/issues/1#issue-3648839560" alt="Medjay" width="100%"/>
+<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" width="100%"/>
 
 <div align="center">
 
@@ -55,21 +55,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FussionPK&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ### ⚔️ Let’s connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter/X](https://img.shields.io/badge/@YourHandle-black?logo=x&logoColor=white)](https://x.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-contact%20me-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-charkuoth-a521b5287?utm_source=share_via&utm_content=profile&utm_medium=member_android)    
+[![Email](https://img.shields.io/badge/Email-contact%20me-D14836?logo=gmail&logoColor=white)](mailto:ryanios565@gmail.com)
 
 </div>
 
