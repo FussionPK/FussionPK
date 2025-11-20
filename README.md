@@ -2,20 +2,20 @@
 
 <div align="center">
 
-# <span style="color:#9D4EDD">Ryan Charkuoth ☀️ • FussionPK</span>
+<!-- PURPLE NAME (this one actually works) -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&duration=1&pause=9999999&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK" alt="Ryan Charkuoth ☀️ • FussionPK" />
+</h1>
 
-<p style="color:#B57EDC; margin-top:-10px; font-size:19px;">
+<p style="color:#B57EDC; margin-top:-20px; font-size:19px; font-weight:500;">
   Cybersecurity | Defensive Security | Linux Hardening | C & Python
 </p>
 
 > “If it ain’t broken… give me 5 minutes.”
 
-
-<img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" />
 
 </div>
-
----
 
 ### 🔥 Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,neovim,docker,c,python,wireshark,&perline=8" />
