@@ -2,25 +2,19 @@
 
 <div align="center">
 
-<h1>Ryan Charkuoth ☀️ • FussionPK</h1>
-
-<!-- Gradient typing username (cyan → purple → pink) -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=48&duration=3000&pause=2000&center=true&vCenter=true&multiline=false&width=700&height=90&lines=FussionPK&color=00FFFF%2C9D4EDD%2CEE75F8" />
+<!-- Name + Username typed together with gradient coloring -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=48&duration=3000&pause=2000&center=true&vCenter=true&multiline=false&width=900&height=100&lines=Ryan+Charkuoth+•+FussionPK&color=00FFFF%2C9D4EDD%2CEE75F8" />
 
 <p style="color:#A78BFA; margin-top:-10px; font-size:19px; font-weight:500;">
-  Cybersecurity | Defensive Security | Linux Hardening | C & Python
+  Cybersecurity • Linux Engineering • C & Python Developer
 </p>
 
 > “If it ain’t broken… give me 5 minutes.”
 
 <img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" />
 
-<!-- Gradient cycling lines below -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=5000&pause=1000&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Low%E2%80%93Level+Cybersec;Parrot+OS+btw+%F0%9F%A6%9C;Medjay+rising+%E2%98%80%EF%B8%8F;Terminal+%3E+GUI;Breaking+%26+fixing+since+forever&color=7C3AED%2C00FFFF%2CFF2E63" />
-
 </div>
 
----
 
 ### 🔥 Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,neovim,docker,c,python,wireshark,&perline=8" />
@@ -43,10 +37,9 @@ CLI addict • Home-lab builder • Proxmox + Docker • KeePass • nmap/tcpdum
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Animated typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=FussionPK;%E2%9A%A1+Cybersecurity+%26+Low%E2%80%93Level;Parrot+OS+btw+%F0%9F%A6%9C;Medjay+%E2%98%80%EF%B8%8F;Terminal+%3E+Everything;If+it's+not+broken...+give+me+5+min" />
-</div>
+<!-- Small aesthetic separator -->
+<br><br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=4500&pause=1200&center=true&vCenter=true&width=800&lines=Arch+Linux+Enthusiast;Defensive+Security+Mindset;Breaking+%26+Fixing+Everything;Low-Level+Learning+Never+Stops" />
 
 ### ⚔️ Connect
 <div align="center">
