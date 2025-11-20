@@ -1,4 +1,7 @@
-<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" style="border-radius:25;" width="100%"/>
+<div style="overflow:hidden; border-radius:25px; width:100%;">
+  <img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" 
+       alt="Medjay" style="width:100%;"/>
+</div>
 
 <div align="center">
 
