@@ -1,11 +1,12 @@
 <div style="overflow:hidden; border-radius:25px; width:100%;">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=46&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=90&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK&color=00FFFF" /> 
+<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" style="border-radius:25;" width="100%"/>
        alt="Medjay" style="width:100%;"/>
 </div>
 
 <div align="center">
+       
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=46&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=90&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK&color=00FFFF" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=46&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=90&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK&color=000000" />
 
 <p style="margin-top:-10px; font-size:18px; font-weight:600;">
   Cybersecurity • Linux Engineering • C & Python Developer
