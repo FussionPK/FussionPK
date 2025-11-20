@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<!-- PURPLE NAME (this one actually works) -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&duration=1&pause=9999999&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK" alt="Ryan Charkuoth ☀️ • FussionPK" />
-</h1>
+<h1>Ryan Charkuoth ☀️ • FussionPK</h1>
 
-<p style="color:#B57EDC; margin-top:-20px; font-size:19px; font-weight:500;">
+<!-- Gradient typing username (cyan → purple → pink) -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=48&duration=3000&pause=2000&center=true&vCenter=true&multiline=false&width=700&height=90&lines=FussionPK&color=00FFFF%2C9D4EDD%2CEE75F8" />
+
+<p style="color:#A78BFA; margin-top:-10px; font-size:19px; font-weight:500;">
   Cybersecurity | Defensive Security | Linux Hardening | C & Python
 </p>
 
@@ -15,7 +15,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" />
 
+<!-- Gradient cycling lines below -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=5000&pause=1000&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Low%E2%80%93Level+Cybersec;Parrot+OS+btw+%F0%9F%A6%9C;Medjay+rising+%E2%98%80%EF%B8%8F;Terminal+%3E+GUI;Breaking+%26+fixing+since+forever&color=7C3AED%2C00FFFF%2CFF2E63" />
+
 </div>
+
+---
 
 ### 🔥 Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,neovim,docker,c,python,wireshark,&perline=8" />
