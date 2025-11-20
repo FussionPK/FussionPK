@@ -43,7 +43,7 @@ CLI addict • Home-lab builder • Proxmox + Docker • KeePass • nmap/tcpdum
 
 <!-- Small aesthetic separator -->
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=4500&pause=1200&center=true&vCenter=true&width=800&lines=Windows+Linux+Enthusiast;Offensive + Security+Mindset;Breaking+%26+Fixing+Everything;Low-Level+Learning+Never+Stops" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=4500&pause=1200&center=true&vCenter=true&width=800&lines=Windows+Linux+Enthusiast;Offensive+Security+Mindset;Breaking+%26+Fixing+Everything;Low-Level+Learning+Never+Stops" />
 
 ### ⚔️ Connect
 <div align="center">
