@@ -1,4 +1,4 @@
-<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" style="border-radius:25px;" width="100%"/>
+<img src="https://github.com/FussionPK/FussionPK/blob/main/lol.jpeg?raw=true" alt="Medjay" style="border-radius:25;" width="100%"/>
 
 <div align="center">
 
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/followers/FussionPK?style=for-the-badge&color=brightgreen&logo=github" />
 
 </div>
-
 <br>
 
 ### 🔥 Tech Stack
@@ -23,11 +22,6 @@
 - 24/7 Defensive Home Lab (SIEM · IDS · Honeypots)
 - Red/Blue/Purple team ranges
 - Low-level C & security Python projects
-
-### ⚡ Goals
-- Release open-source exploits & hardening tools
-- Master C (manual exploits from scratch)
-- Build a portfolio that actually gets me hired
 
 ### 📊 Stats
 <p align="center">
@@ -41,8 +35,11 @@
 
 ### ⚔️ Connect
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/ryan-charkuoth-a521b5287">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)</a>
+  
   <a href="mailto:ryanios565@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)</a>
+  
 </div>
 
 <div align="center">
