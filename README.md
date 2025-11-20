@@ -60,7 +60,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FussionPK&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=FussionPK&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ### ⚔️ Let’s connect
