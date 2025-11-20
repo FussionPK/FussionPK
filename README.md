@@ -2,12 +2,14 @@
 
 <div align="center">
 
-<div align="center">
-  <h1 style="border:0; margin:0;">Ryan Charkuoth ☀️ • <strong style="color:#9D4EDD">FussionPK</strong></h1>
-  <p style="color:#B57EDC; margin:8px 0 0 0; font-size:18px;">Cybersecurity | Defensive Security | Linux Hardening | C & Python</p>
-</div>
+# <span style="color:#9D4EDD">Ryan Charkuoth ☀️ • FussionPK</span>
+
+<p style="color:#B57EDC; margin-top:-10px; font-size:19px;">
+  Cybersecurity | Defensive Security | Linux Hardening | C & Python
+</p>
 
 > “If it ain’t broken… give me 5 minutes.”
+
 
 <img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" alt="views"/>
 
