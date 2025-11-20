@@ -4,7 +4,7 @@
 
 <div align="center">
        
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=46&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=90&lines=NotM4instream+%E2%98%80%EF%B8%8F+FussionPK&color=00FFFF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=46&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=90&lines=Ryan+Charkuoth+%E2%98%80%EF%B8%8F+%E2%80%A2+FussionPK&color=FFA500" />
 
 
 <p style="margin-top:-10px; font-size:18px; font-weight:600;">
@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=23&duration=4500&pause=1200&center=true&vCenter=true&width=700&lines=Parrot+OS+btw;Defensive+%26+Offensive+Mindset;Terminal+%3E+Everything;Learning+by+Breaking&color=00FFFF"
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=23&duration=4500&pause=1200&center=true&vCenter=true&width=700&lines=Parrot+OS+btw;Defensive+%26+Offensive+Mindset;Terminal+%3E+Everything;Learning+by+Breaking&color=FFA500" />
 </div>
 
 ### ⚔️ Connect
