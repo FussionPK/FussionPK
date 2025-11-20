@@ -5,15 +5,17 @@ backup
 <div align="center">
 
 <!-- Name + Username typed together with gradient coloring -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=48&duration=3000&pause=2000&center=true&vCenter=true&multiline=false&width=900&height=100&lines=Ryan+Charkuoth+•+FussionPK&color=00FFFF%2C9D4EDD%2CEE75F8" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=48&duration=3000&pause=2000&center=true&vCenter=true&multiline=false&width=900&height=100&lines=Ryan+Charkuoth+•+FussionPK&color=000000" />
 
-<p style="color:#A78BFA; margin-top:-10px; font-size:19px; font-weight:500;">
+
+<p style="color:#A78BFA; margin-top:-10px; font-size:19px; font-weight:700;">
+
   Cybersecurity • Linux Engineering • C & Python Developer
 </p>
 
-> “If it ain’t broken… give me 5 minutes.”
+> “If its broken… give me 5 minutes.”
 
-<img src="https://komarev.com/ghpvc/?username=FussionPK&color=brightgreen&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/FussionPK?style=for-the-badge&color=brightgreen" />
 
 </div>
 
