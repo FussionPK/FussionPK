@@ -2,9 +2,10 @@
 
 <div align="center">
 
-# Ryan Charkuoth ☀️ • **FussionPK**
-
-**Cybersecurity | Defensive Security | Linux Hardening | C & Python**
+<div align="center">
+  <h1 style="border:0; margin:0;">Ryan Charkuoth ☀️ • <strong style="color:#9D4EDD">FussionPK</strong></h1>
+  <p style="color:#B57EDC; margin:8px 0 0 0; font-size:18px;">Cybersecurity | Defensive Security | Linux Hardening | C & Python</p>
+</div>
 
 > “If it ain’t broken… give me 5 minutes.”
 
@@ -35,9 +36,9 @@ CLI addict • Home-lab builder • Proxmox + Docker • KeePass • nmap/tcpdum
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Animated typing SVG (super lightweight) -->
+<!-- Animated typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Arch+btw+%E2%9C%A8;Medjay+rising+%E2%98%80%EF%B8%8F;Terminal+%3E+GUI;Hack+the+planet." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=FussionPK;%E2%9A%A1+Cybersecurity+%26+Low%E2%80%93Level;Parrot+OS+btw+%F0%9F%A6%9C;Medjay+%E2%98%80%EF%B8%8F;Terminal+%3E+Everything;If+it's+not+broken...+give+me+5+min" />
 </div>
 
 ### ⚔️ Connect
