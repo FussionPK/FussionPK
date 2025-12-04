@@ -29,18 +29,10 @@
 
 ### 📊 Stats
 <p align="center">
-       
-<img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-
-<img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
-<div align="center">
-       
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=23&duration=4500&pause=1200&center=true&vCenter=true&width=700&lines=Parrot+OS+btw;Defensive+%26+Offensive+Mindset;Terminal+%3E+Everything;Learning+by+Breaking&color=FFA500" />
-
-</div>
 
 ### ⚔️ Connect
 <div align="center">
