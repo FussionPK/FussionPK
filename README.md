@@ -43,9 +43,9 @@
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="Main Account stats" />
        
-  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages Used"/>
 </p>
 
 <div align="center">
