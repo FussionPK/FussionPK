@@ -27,12 +27,6 @@
 - Red/Blue/Purple team ranges
 - Low-level C & security Python projects
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  
-  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 ### ⚔️ Connect
 <div align="center">
@@ -46,3 +40,10 @@
 <div align="center">
   <i>“The only real security is a strong offense with an even stronger defense.”</i>
 </div>
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api?username=FussionPK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  
+  <img src="https://github-readme-statsv1-6qdfgq3q4-fussionpks-projects.vercel.app/api/top-langs/?username=FussionPK&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
